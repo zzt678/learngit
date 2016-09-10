@@ -1,7 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
-我的名字叫做张卓婷
+我的名字叫做张卓
 
 My stupid boss still prefers SVN.
 <<<<<<< HEAD
